@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_124" data-name="長方形 124" width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="icon-linkedin" transform="translate(-715 -627)">
+    <rect id="長方形_125" data-name="長方形 125" width="20.25" height="18.75" transform="translate(716.5 630)" fill="#fff"/>
+    <g id="LinkedIn_-_Original" data-name="LinkedIn - Original" transform="translate(715 627)" clip-path="url(#clip-path)">
+      <path id="パス_195" data-name="パス 195" d="M22.228,0H1.772A1.772,1.772,0,0,0,0,1.772V22.228A1.772,1.772,0,0,0,1.772,24H22.228A1.772,1.772,0,0,0,24,22.228V1.772A1.772,1.772,0,0,0,22.228,0ZM7.153,20.445H3.545V8.983H7.153ZM5.347,7.395A2.072,2.072,0,1,1,7.43,5.325a2.042,2.042,0,0,1-2.083,2.07Zm15.107,13.06H16.847V14.193c0-1.847-.785-2.417-1.8-2.417a2.2,2.2,0,0,0-2.12,2.463v6.215H9.32V8.992h3.47V10.58h.047a3.937,3.937,0,0,1,3.43-1.91c2.013,0,4.188,1.195,4.188,4.695Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
